@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nadine Al Hawwat</h1>
 <h3 align="center">A passionate and driven Computer Science student from Lebanon</h3>
 
-- 🔭 **I’m currently a second-year Computer Science student at the Lebanese American University.**
-
-- 🌟 **Seeking an internship for summer 2025.** I aim to transform my educational knowledge into meaningful impact while gaining valuable hands-on experience.
+- 🔭 **I’m a Computer Science student at the Lebanese American University.**
 
 - 💡 **Passionate about innovation and technology,** I thrive in creating efficient and impactful solutions that address real-world challenges.
 
